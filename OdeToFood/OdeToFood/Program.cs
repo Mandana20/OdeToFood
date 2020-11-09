@@ -14,7 +14,6 @@ using OdeToFood.Data;
 namespace OdeToFood
 {
     public class Program
-    {
     {  ghf
         public static void Main(string[] args)
         {
